@@ -2,7 +2,7 @@
   "bundles":[
     {
       "name": "model",
-      "version": "1.0", "https://raw.githubusercontent.com/yourusername/your-repo/main/AssetBundles/mybundle"
+      "version": "1.0", "https://raw.githubusercontent.com/Lieranos/LAB05/refs/heads/main/model"
       "url":
     }
   ]
