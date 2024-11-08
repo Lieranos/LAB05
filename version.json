@@ -2,8 +2,8 @@
   "bundles":[
     {
       "name": "model",
-      "version": "1.0", "https://raw.githubusercontent.com/Lieranos/LAB05/refs/heads/main/model"
-      "url":
+      "version": "1.0", 
+      "url": "https://raw.githubusercontent.com/Lieranos/LAB05/refs/heads/main/model"
     }
   ]
 }
